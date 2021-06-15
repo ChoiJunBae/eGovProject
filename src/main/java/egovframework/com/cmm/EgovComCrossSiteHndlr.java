@@ -46,7 +46,18 @@ public class EgovComCrossSiteHndlr extends BodyTagSupport {
 
 	private String m_sDiffChar ="()[]{}\"',:;= \t\r\n%!+-";
 	//private String m_sDiffChar ="()[]{}\"',:;=%!+-";
-	privat
+	private String m_sArrDiffChar [] = {
+			"&#40;","&#41;",
+			"&#91;","&#93;",
+			"&#123;","&#125;",
+			"&#34;","&#39;",
+			"&#44;","&#58;",
+			"&#59;","&#61;",
+			" ","\t", //" ","\t",
+			"\r","\n", //"\r","\n",
+			"&#37;","&#33;",
+			"&#43;","&#45;"
+	};
 
 	/**
 	 * Constructs a new handler. As with TagSupport, subclasses should not
