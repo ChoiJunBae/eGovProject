@@ -29,7 +29,7 @@
     <img src="<c:url value='/images/header/limg_lt_nia_logo.gif' />" alt="NIA한국정보화진흥원" />
 </div>
  -->
-<div id="project_title"><span class="maintitle">전자정부</span><strong>표준 프레임워크 단순 홈페이지</strong>
+<div id="project_title"><span class="maintitle">전자정부</span><strong>하나은행 단순 홈페이지</strong>
 <a href="<c:url value='/EgovPageLink.do?link=main/sample_menu/Intro'/>" target="_blank"><img width="20" height="20" src="<c:url value='/images/question.jpg'/>" alt="메뉴구성 설명" title="메뉴구성 설명"></a>
 </div>
 <!-- //행정안전부 로고 및 타이틀 끝 -->
