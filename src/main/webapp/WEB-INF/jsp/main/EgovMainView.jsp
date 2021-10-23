@@ -19,7 +19,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Language" content="ko" >
-<title>표준프레임워크 경량환경 홈페이지 템플릿</title>
+<title>OKESTRO DEMO 홈페이지 템플릿</title>
 <link href="<c:url value='/'/>css/common.css" rel="stylesheet" type="text/css" >
 </head>
 <body>
